@@ -1,3 +1,2 @@
 Pirmaa rindaa
-Otraa rindaa
-Trešaa rindaa
+Otraa rindaa, bet tas ir trešaa rindaa
